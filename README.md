@@ -3,7 +3,6 @@
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=ZDD-cy&repo=game)
 ![github统计](https://stats.justsong.cn/api/github?username=ZDD-cy&theme=dark&lang=zh-CN)
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=660716498&amp;theme=dark)
-![Visitor Count](https://komarev.com/ghpvc/?username=ZDD-cy)
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ZDD-cy.ZDD-cy)
 
 ![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
