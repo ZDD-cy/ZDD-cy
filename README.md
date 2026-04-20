@@ -33,15 +33,7 @@
 </div>
 
 
-<p align="center">
-  <img 
-    src="
-                  https://github-readme-activity-graph-git-main.vercel.app/graph?username=ZDD-cy&theme=tokyo-night&hide_border=true&custom_title=CYZDD's
-                   Contribution Graph&color=ff7eb9&point=74c7ec&line=2" 
-    alt="Contribution Graph" 
-    width="100%"
-  >
-</p>
+
 
 
 
