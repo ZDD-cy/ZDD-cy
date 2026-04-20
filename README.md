@@ -1,15 +1,16 @@
 <div align="center">
-  <table width="100%">
+  <table>
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ZDD-cy&show_icons=true&theme=white&hide_border=true" alt="GitHub Stats" width="100%">
+      <td>
+        <img src="https://github-stats.ubrong.com/api?username=ZDD-cy&show_icons=true&" alt="GitHub Stats" width="600">
       </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZDD-cy&layout=compact&theme=white&hide_border=true" alt="Most Used Languages" width="100%">
+      <td>
+        <img src="https://github-stats.ubrong.com/api/top-langs/?username=ZDD-cy&layout=compact&" alt="Most Used Languages" width="300">
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
