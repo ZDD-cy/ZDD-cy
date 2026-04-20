@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&width=800&height=100&lines=%E2%80%9C%E5%B0%8F%E2%80%9D%E4%B8%AD%E6%9C%89%E4%BD%99%E5%9C%B0%EF%BC%8C%E2%80%9C%E6%BB%A1%E2%80%9D%E9%87%8C%E8%97%8F%E6%AC%A2%E6%AC%A3;+%E4%BD%95%E9%A1%BB%E5%A4%9A%E8%99%91%E7%9B%88%E4%BA%8F%E4%BA%8B%EF%BC%8C%E7%BB%88%E5%BD%92%E5%B0%8F%E6%BB%A1%E8%83%9C%E4%B8%87%E5%85%A8)](https://git.io/typing-svg)
+🎉嗨！很高兴见到你！
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%80%9C%E5%B0%8F%E2%80%9D%E4%B8%AD%E6%9C%89%E4%BD%99%E5%9C%B0%EF%BC%8C%E2%80%9C%E6%BB%A1%E2%80%9D%E9%87%8C%E8%97%8F%E6%AC%A2%E6%AC%A3;+%E4%BD%95%E9%A1%BB%E5%A4%9A%E8%99%91%E7%9B%88%E4%BA%8F%E4%BA%8B%EF%BC%8C%E7%BB%88%E5%BD%92%E5%B0%8F%E6%BB%A1%E8%83%9C%E4%B8%87%E5%85%A8)](https://git.io/typing-svg)
 <div align="center">
   <table width="100%">
     <tr>
