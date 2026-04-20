@@ -31,9 +31,7 @@
 
 
 
-![github统计](https://stats.justsong.cn/api/github?username=ZDD-cy&theme=dark&lang=zh-CN)
-<br>
-![B站统计](https://stats.justsong.cn/api/bilibili/?id=660716498&amp;theme=dark)
+![github统计](https://stats.justsong.cn/api/github?username=ZDD-cylang=zh-CN)![B站统计](https://stats.justsong.cn/api/bilibili/?id=660716498&amp)
 <br>
 <div id="img" align=center> 
 
