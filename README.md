@@ -50,13 +50,14 @@
 <br>
 <p align="center">
   <img 
-    src="https://activity-graphs.vercel.app/graph?username=ZDD-cy&theme=tokyo-night&hide_border=true&custom_title=CYZDD's Contribution Graph&color=e06c75&point=74c7ec&line=2" 
+    src="https://activity-graphs.vercel.app/graph?username=ZDD-cy&theme=anime-night&hide_border=true&custom_title=CYZDD's Contribution Graph&color=ff7eb9&point=74c7ec&line=2&bg_color=1a1b27&grid=364a63" 
     alt="Contribution Graph" 
     width="100%"
   >
-   
+</p>
+
 <p align="center">
-  <img src="https://count.getloli.com/get/@ZDD-cy?theme=gelbooru" alt="访客计数器">
+  <img src="https://count.getloli.com/get/@ZDD-cy?theme=konayan" alt="访客计数器">
 </p>
 
 
