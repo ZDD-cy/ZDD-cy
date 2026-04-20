@@ -49,3 +49,16 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ZDD-cy.ZDD-cy)
 
 ![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
+<br>
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ZDD-cy&theme=tokyo-night&hide_border=true&custom_title=CYZDD's Contribution Graph" 
+    alt="Contribution Graph" 
+    width="100%"
+  >
+</div>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@ZDD-cy?theme=gelbooru" alt="访客计数器">
+</p>
+
