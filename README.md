@@ -33,7 +33,15 @@
 </div>
 
 
-
+<p align="center">
+  <img 
+    src="
+                  https://github-readme-activity-graph-git-main.vercel.app/graph?username=ZDD-cy&theme=tokyo-night&hide_border=true&custom_title=CYZDD's
+                   Contribution Graph&color=ff7eb9&point=74c7ec&line=2" 
+    alt="Contribution Graph" 
+    width="100%"
+  >
+</p>
 
 
 
@@ -48,19 +56,7 @@
 
 ![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
 <br>
-<p align="center">
-  <!-- 二次元风贡献日历 -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ZDD-cy&show_icons=true&theme=tokyonight&hide_rank=true&hide_border=true&bg_color=1a1b27&icon_color=ff7eb9&title_color=74c7ec&text_color=c9d1d9" 
-    alt="GitHub Stats" 
-    width="49%"
-  >
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZDD-cy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=74c7ec&text_color=c9d1d9" 
-    alt="Top Languages" 
-    width="49%"
-  >
-</p>
+
 
 <p align="center">
   <!-- 二次元访客计数器 -->
