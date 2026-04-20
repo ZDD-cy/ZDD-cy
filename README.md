@@ -1,15 +1,26 @@
 <div align="center">
   <table width="100%">
     <tr>
+      <!-- 左侧 GitHub Stats 卡片：占 2/3 宽度 -->
       <td width="67%">
-        <img src="https://github-stats.ubrong.com/api?username=ZDD-cy&show_icons=true&" alt="GitHub Stats" width="100%">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=ZDD-cy&show_icons=true&theme=white&hide_border=true" 
+          alt="GitHub Stats" 
+          width="100%"
+        >
       </td>
+      <!-- 右侧 Most Used Languages 卡片：占 1/3 宽度 -->
       <td width="33%">
-        <img src="https://github-stats.ubrong.com/api/top-langs/?username=ZDD-cy&layout=compact&" alt="Most Used Languages" width="100%">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZDD-cy&layout=compact&theme=white&hide_border=true" 
+          alt="Most Used Languages" 
+          width="100%"
+        >
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
