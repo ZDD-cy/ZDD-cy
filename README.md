@@ -1,16 +1,16 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <!-- 左侧 GitHub Stats 卡片：调整为 50% 宽度 -->
-      <td width="50%">
+  
+      <td width="70%">
         <img 
           src="https://github-stats.ubrong.com/api?username=ZDD-cy&show_icons=true&theme=white&hide_border=true" 
           alt="GitHub Stats" 
           width="100%"
         >
       </td>
-      <!-- 右侧 Most Used Languages 卡片：调整为 50% 宽度，同时去掉 layout=compact，还原横向长条样式 -->
-      <td width="50%">
+   
+      <td width="30%">
         <img 
           src="https://github-stats.ubrong.com/api/top-langs/?username=ZDD-cy&theme=white&hide_border=true" 
           alt="Most Used Languages" 
