@@ -54,10 +54,6 @@
     alt="Contribution Graph" 
     width="100%"
   >
-</p>
-
-</p>
-
 <p align="center">
   <img src="https://count.getloli.com/get/@ZDD-cy?theme=gelbooru" alt="访客计数器">
 </p>
