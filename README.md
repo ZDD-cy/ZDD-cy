@@ -44,18 +44,18 @@
 
 ![github统计](https://stats.justsong.cn/api/github?username=ZDD-cylang=zh-CN)![B站统计](https://stats.justsong.cn/api/bilibili/?id=660716498&amp)
 <br>
-
-
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ZDD-cy.ZDD-cy)
 
 ![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
 <br>
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ZDD-cy&theme=github-white&hide_border=true&custom_title=Contribution Graph" 
-    alt="Contribution Graph" 
+    src="https://ghchart.rshah.org/007bff/ZDD-cy" 
+    alt="GitHub Contribution Calendar" 
     width="100%"
   >
+</p>
+
 </p>
 
 <p align="center">
