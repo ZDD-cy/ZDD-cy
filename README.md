@@ -50,7 +50,7 @@
 <br>
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ZDD-cy&theme=tokyo-night&hide_border=true&custom_title=CYZDD's Contribution Graph&color=e06c75&point=74c7ec&line=2" 
+    src="https://activity-graphs.vercel.app/graph?username=ZDD-cy&theme=tokyo-night&hide_border=true&custom_title=CYZDD's Contribution Graph&color=e06c75&point=74c7ec&line=2" 
     alt="Contribution Graph" 
     width="100%"
   >
