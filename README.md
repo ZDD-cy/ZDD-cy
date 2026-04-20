@@ -1,16 +1,19 @@
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td>
-        <img src="https://github-stats.ubrong.com/api?username=ZDD-cy&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400">
+      <!-- 第一列：GitHub Stats（白色主题） -->
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ZDD-cy&show_icons=true&theme=white&hide_border=true" alt="GitHub Stats" width="100%">
       </td>
-      <td>
-        <img src="https://github-stats.ubrong.com/api/top-langs/?username=ZDD-cy&layout=compact&theme=tokyonight" alt="Most Used Languages" width="350">
+      <!-- 第二列：Most Used Languages（白色主题） -->
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZDD-cy&layout=compact&theme=white&hide_border=true" alt="Most Used Languages" width="100%">
       </td>
     </tr>
   </table>
 </div>
+
 
 
 ![github统计](https://stats.justsong.cn/api/github?username=ZDD-cy&theme=dark&lang=zh-CN)
