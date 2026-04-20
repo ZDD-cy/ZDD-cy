@@ -4,9 +4,6 @@
 ![github统计](https://stats.justsong.cn/api/github?username=ZDD-cy&theme=dark&lang=zh-CN)
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=660716498&amp;theme=dark)
 <div id="img" align=center>
-[![b站](https://img.shields.io/badge/
-%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://space.bilibili.com/660716498?spm_id_from=333.1007.0.0)
-
+[![Bilibili](https://img.shields.io/badge/Bilibili-粉-blue?style=flat&logo=bilibili&logoColor=white&color=FB7299)](https://space.bilibili.com/660716498)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ZDD-cy.ZDD-cy)
-
 ![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
