@@ -2,13 +2,13 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <!-- 第一列：GitHub Stats -->
+      <!-- 第一列：GitHub Stats（白色主题） -->
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ZDD-cy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ZDD-cy&show_icons=true&theme=white&hide_border=true" alt="GitHub Stats" width="100%">
       </td>
-      <!-- 第二列：Most Used Languages -->
+      <!-- 第二列：Most Used Languages（白色主题） -->
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZDD-cy&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZDD-cy&layout=compact&theme=white&hide_border=true" alt="Most Used Languages" width="100%">
       </td>
     </tr>
   </table>
