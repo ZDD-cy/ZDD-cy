@@ -3,11 +3,11 @@
   <tr>
     <!-- 第一列：GitHub Stats -->
     <td>
-    ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=ZDD-cy&show_icons=true&theme=tokyonight)!
+     <img src="(https://github-stats.ubrong.com/api?username=ZDD-cy&show_icons=true&theme=tokyonight)!" alt="GitHub Stats"
     </td>
     <!-- 第二列：Most Used Languages -->
     <td>
-     ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=ZDD-cy&layout=compact&theme=tokyonight)
+        <img src="(https://github-stats.ubrong.com/api/top-langs/?username=ZDD-cy&layout=compact&theme=tokyonight)" alt="Most Used Languages" width="350">
     </td>
   </tr>
 </table>
