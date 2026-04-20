@@ -50,15 +50,16 @@
 
 ![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
 <br>
-<div align="center">
+<p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ZDD-cy&theme=tokyo-night&hide_border=true&custom_title=CYZDD's Contribution Graph" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ZDD-cy&theme=github-white&hide_border=true&custom_title=Contribution Graph" 
     alt="Contribution Graph" 
     width="100%"
   >
-</div>
----
+</p>
+
 <p align="center">
-  <img src="https://count.getloli.com/get/@ZDD-cy?theme=danbooru" alt="访客计数器">
+  <!-- 主题2：moebooru（萌系二次元） -->
+  <!-- <img src="https://count.getloli.com/get/@ZDD-cy?theme=moebooru" alt="访客数"> -->
 </p>
 
