@@ -1,15 +1,16 @@
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td>
-        <img src="https://github-stats.ubrong.com/api?username=ZDD-cy&show_icons=true&" alt="GitHub Stats" width="600">
+      <td width="67%">
+        <img src="https://github-stats.ubrong.com/api?username=ZDD-cy&show_icons=true&" alt="GitHub Stats" width="100%">
       </td>
-      <td>
-        <img src="https://github-stats.ubrong.com/api/top-langs/?username=ZDD-cy&layout=compact&" alt="Most Used Languages" width="300">
+      <td width="33%">
+        <img src="https://github-stats.ubrong.com/api/top-langs/?username=ZDD-cy&layout=compact&" alt="Most Used Languages" width="100%">
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
